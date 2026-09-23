@@ -91,7 +91,7 @@ function Login() {
                   type="email"
                   value={formData.email}
                   onChange={handleChange}
-                  placeholder="robertmartin@gmail.com"
+                  placeholder="Gani@gmail.com"
                   required
                   className="h-9 w-full rounded-md bg-[#fafafa] px-3 text-[9px] text-[#30251f] outline-none placeholder:text-[#b8b2ad] focus:ring-1 focus:ring-[#ff8a00]"
                 />
@@ -112,7 +112,7 @@ function Login() {
                     type={showPassword ? "text" : "password"}
                     value={formData.password}
                     onChange={handleChange}
-                    placeholder="••••••••••"
+                    placeholder="123"
                     required
                     className="h-9 w-full rounded-md bg-[#fafafa] px-3 pr-16 text-[9px] text-[#30251f] outline-none placeholder:text-[#b8b2ad] focus:ring-1 focus:ring-[#ff8a00]"
                   />
