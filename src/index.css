@@ -1,0 +1,86 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&family=Tinos:wght@400;700&display=swap");
+
+@import "tailwindcss";
+
+
+html {
+  scroll-behavior: smooth;
+  overflow-x: hidden;
+}
+
+body {
+  margin: 0;
+  font-family: "Poppins", sans-serif;
+  background-color: white;
+  color: #311f09;
+  min-width: 0;
+  overflow-x: hidden;
+}
+
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Tinos", serif;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+img,
+picture,
+video,
+canvas,
+svg {
+  max-width: 100%;
+}
+
+button,
+a,
+input,
+select,
+textarea {
+  -webkit-tap-highlight-color: transparent;
+}
+
+button,
+a {
+  touch-action: manipulation;
+}
+
+
+/* Responsive safety: long text and flex/grid children must stay inside the viewport. */
+#root,
+main,
+section,
+article,
+header,
+footer {
+  min-width: 0;
+}
+
+p,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+a,
+button,
+label {
+  overflow-wrap: anywhere;
+}
+
+input,
+select,
+textarea,
+button {
+  max-width: 100%;
+}

@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600">
+<rect width="800" height="600" fill="#eef4e8"/><ellipse cx="400" cy="445" rx="255" ry="55" fill="#9eb08e" opacity=".35"/><ellipse cx="400" cy="410" rx="235" ry="85" fill="#fff"/><ellipse cx="400" cy="390" rx="190" ry="65" fill="#7eae62"/>
+<g><circle cx="320" cy="370" r="34" fill="#d94b3e"/><circle cx="420" cy="360" r="31" fill="#e15b45"/><circle cx="500" cy="390" r="30" fill="#d94b3e"/><circle cx="365" cy="415" r="25" fill="#f3c94f"/><circle cx="455" cy="420" r="24" fill="#f1c44d"/><path d="M280 395c35-55 65-55 90 0" fill="#4f8e4f"/><path d="M390 395c35-55 65-55 90 0" fill="#4b914c"/></g>
+<text x="400" y="95" text-anchor="middle" font-family="Georgia,serif" font-size="42" font-weight="700" fill="#36572d">Garden Fresh Salad</text><text x="400" y="132" text-anchor="middle" font-family="Arial,sans-serif" font-size="19" fill="#58704e">Crisp greens • vegetables • herbs</text>
+</svg>

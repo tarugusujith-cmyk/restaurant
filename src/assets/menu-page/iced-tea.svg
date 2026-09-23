@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600">
+<rect width="800" height="600" fill="#f4eee6"/><ellipse cx="400" cy="485" rx="205" ry="35" fill="#b7a28d" opacity=".35"/><path d="M305 185h190l-22 285H327z" fill="#fff" opacity=".5" stroke="#c6b8aa" stroke-width="8"/><path d="M317 240h166l-16 215H333z" fill="#a85f39" opacity=".9"/><g fill="#f7f0e4" opacity=".65"><circle cx="345" cy="275" r="18"/><circle cx="425" cy="330" r="22"/><circle cx="375" cy="400" r="17"/></g><path d="M500 170L440 245" stroke="#755b42" stroke-width="12" stroke-linecap="round"/><circle cx="500" cy="205" r="42" fill="#efc65b"/><path d="M460 205h80" stroke="#fff1a0" stroke-width="7"/>
+<text x="400" y="85" text-anchor="middle" font-family="Georgia,serif" font-size="42" font-weight="700" fill="#4b3527">Italian Iced Tea</text><text x="400" y="120" text-anchor="middle" font-family="Arial,sans-serif" font-size="19" fill="#756455">Chilled tea • citrus • ice</text>
+</svg>

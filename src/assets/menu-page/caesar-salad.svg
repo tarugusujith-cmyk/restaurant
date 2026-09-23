@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600">
+<rect width="800" height="600" fill="#f4f1e5"/><ellipse cx="400" cy="445" rx="250" ry="50" fill="#b8aa87" opacity=".3"/><ellipse cx="400" cy="405" rx="230" ry="82" fill="#fff"/><ellipse cx="400" cy="390" rx="190" ry="62" fill="#7aa55c"/>
+<g fill="#e8d8b4"><rect x="295" y="355" width="52" height="28" rx="6" transform="rotate(-18 295 355)"/><rect x="430" y="350" width="52" height="28" rx="6" transform="rotate(15 430 350)"/><rect x="350" y="405" width="50" height="26" rx="6" transform="rotate(8 350 405)"/></g><g fill="#f4e7c9"><circle cx="330" cy="390" r="18"/><circle cx="470" cy="405" r="19"/><circle cx="410" cy="370" r="17"/></g>
+<path d="M280 405c40-35 75-40 110-5M410 430c45-35 75-35 105-2" fill="none" stroke="#4d874b" stroke-width="18" stroke-linecap="round"/>
+<text x="400" y="95" text-anchor="middle" font-family="Georgia,serif" font-size="42" font-weight="700" fill="#4b5a30">Italian Caesar Salad</text><text x="400" y="132" text-anchor="middle" font-family="Arial,sans-serif" font-size="19" fill="#66704f">Romaine • parmesan • croutons</text>
+</svg>

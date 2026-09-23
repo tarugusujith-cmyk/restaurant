@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f4e9df"/><stop offset="1" stop-color="#dcc2ad"/></linearGradient><linearGradient id="cake" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#6b3825"/><stop offset="1" stop-color="#32170f"/></linearGradient></defs>
+<rect width="800" height="600" fill="url(#bg)"/><ellipse cx="400" cy="445" rx="245" ry="50" fill="#b99a82" opacity=".35"/><ellipse cx="400" cy="425" rx="220" ry="45" fill="#fff"/>
+<path d="M250 265h300v145H250z" fill="url(#cake)"/><path d="M250 265c20-55 280-55 300 0" fill="#472316"/><path d="M250 265c35-35 265-35 300 0" fill="#f7eee7"/><path d="M250 310h300v20H250z" fill="#e7c8a8"/><path d="M250 360h300v18H250z" fill="#f0d9bd"/><path d="M270 245c30-22 55-26 85-22" fill="none" stroke="#fff" stroke-width="18" stroke-linecap="round"/>
+<circle cx="335" cy="235" r="11" fill="#5a2b1d"/><circle cx="400" cy="228" r="12" fill="#5a2b1d"/><circle cx="465" cy="236" r="11" fill="#5a2b1d"/>
+<text x="400" y="105" text-anchor="middle" font-family="Georgia,serif" font-size="42" font-weight="700" fill="#4b2d20">Chocolate Delight</text><text x="400" y="145" text-anchor="middle" font-family="Arial,sans-serif" font-size="20" fill="#7b6253">Rich chocolate • cream • cocoa</text>
+</svg>

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600">
+<rect width="800" height="600" fill="#f7efe5"/><ellipse cx="400" cy="440" rx="260" ry="55" fill="#cbb7a4" opacity=".35"/><ellipse cx="400" cy="420" rx="235" ry="48" fill="#fff"/>
+<ellipse cx="315" cy="360" rx="75" ry="45" fill="#f1d1aa"/><ellipse cx="485" cy="360" rx="75" ry="45" fill="#e9b9a5"/><ellipse cx="400" cy="300" rx="85" ry="50" fill="#f4e1b9"/><circle cx="315" cy="350" r="22" fill="#9b4f4a"/><circle cx="485" cy="350" r="22" fill="#7a9b58"/><circle cx="400" cy="292" r="20" fill="#8d5b39"/>
+<path d="M265 330c25-50 75-50 100 0" fill="#fff4e8" opacity=".9"/><path d="M435 330c25-50 75-50 100 0" fill="#fff4e8" opacity=".9"/><path d="M345 270c35-48 75-48 110 0" fill="#fff4e8" opacity=".9"/>
+<text x="400" y="105" text-anchor="middle" font-family="Georgia,serif" font-size="42" font-weight="700" fill="#4b2d20">Italian Sweet Plate</text><text x="400" y="145" text-anchor="middle" font-family="Arial,sans-serif" font-size="20" fill="#7b6253">A trio of Italian-inspired sweets</text>
+</svg>
